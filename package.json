@@ -1,0 +1,33 @@
+{
+  "name": "klayton-leandro-certs-phissing",
+  "version": "1.0.4",
+  "description": "Catching phishing by observing certificate transparency logs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fabio Castro @6IXN7ine",
+  "license": "ISC",
+  "dependencies": {
+    "certstream": "^1.1.0",
+    "cli-color": "^1.2.0",
+    "lodash": "^4.17.4",
+    "node-status": "^1.0.0",
+    "tldjs": "^2.2.0"
+  },
+  "directories": {
+    "example": "example"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/6IX7ine/klayton-leandro-certs-phissing.git"
+  },
+  "keywords": [
+    "certstream"
+  ],
+  "bugs": {
+    "url": "https://github.com/6IX7ine/klayton-leandro-certs-phissing/issues"
+  },
+  "homepage": "https://github.com/6IX7ine/klayton-leandro-certs-phissing#readme"
+}
