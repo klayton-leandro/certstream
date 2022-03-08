@@ -1,12 +1,4 @@
-/**
- * Github
- * https://github.com/6IX7ine/certstreamcatcher
- * 
- * Copyright (c) 2017 Fábio Castro
- * Licensed under the MIT license.
- */
-
- 'use strict'
+'use strict'
 
  const tld = require('tldjs');
  const lodash = require('lodash');
